@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left gap-16">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rounit-kashyap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rounit-kashyap/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rounit-kashyap/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rounit-kashyap/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/chefrounit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chefrounit" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/forcerounit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/forcerounit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rounitpeppa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rounitpeppa/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/forcerounit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/forcerounit" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rounitpeppa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rounitpeppa/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -58,10 +58,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -81,8 +77,11 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  </a>
 </div>
-
 
 <br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rounit-1st&" alt="rounit-1st" /></p>
 
